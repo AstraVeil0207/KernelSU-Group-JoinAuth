@@ -39,3 +39,7 @@ Author
 -----------------------------------------------------------------------------------------------------
 
 TG@SkyQiQi
+
+Copyright Notice
+-----------------------------------------------------------------------------------------------------
+if any copyright infringement exists,please contact me and I will remove it promtly.
