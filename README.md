@@ -7,7 +7,7 @@ Usage
 Android
 -------------------------------------------------------------------------------------------------------
 
-Use termux
+Use Termux App
 
 https://github.com/termux-play-store/termux-apps
 
